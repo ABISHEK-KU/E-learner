@@ -1,0 +1,25 @@
+.card-container {
+    width:60% !important;
+    border-radius: 50px;
+    background: #eeeeee;
+    box-shadow: 20px 20px 60px #cacaca,
+        -20px -20px 60px #ffffff;
+    border: none;
+    margin-left:10% !important;
+}
+.tableDiv{
+    margin-left:-10px;
+}
+.tableButtonEnroll,.tableButtonUnEnroll{
+    width:90px;
+    border-radius:5px;
+    border:none;
+    color:white
+}
+
+.tableButtonEnroll{
+    background-color:#20c997;
+}
+.tableButtonUnEnroll{
+    background-color:#dc3545;
+}

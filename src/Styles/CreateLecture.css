@@ -1,0 +1,80 @@
+.text-center {
+    text-align: center !important;
+  }
+  
+  .card {
+    width: 500px !important;
+    border-radius: 50px;
+    background: #eeeeee;
+    box-shadow: 20px 20px 60px #cacaca,
+      -20px -20px 60px #ffffff;
+    border: none;
+  }
+  .container-main{
+    height:58px;
+    width: 400px;
+  }
+
+  #floatingAssetType,
+  #floatingDelete{
+    width: 199px !important;
+  }
+   
+  .deletecont{
+    margin-left:-22px;
+  }
+  
+  label {
+    margin-left: -50px;
+  }
+  
+  .form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+  }
+  
+  main {
+    display: block;
+  }
+  
+  *,
+  ::after,
+  ::before {
+    box-sizing: border-box;
+  }
+  
+  *,
+  ::after,
+  ::before {
+    box-sizing: border-box;
+  }
+  
+  .buttonSignUp {
+    margin-top: 10px;
+  }
+  
+  .error {
+    color: #dc3545;
+  }
+  
+  #signUpButton {
+    width: 400px !important;
+    margin-left: -50px;
+  }
+
+  .css-1s2u09g-control{
+    border: none !important;
+    margin-top: -10px;
+    border-color: transparent !important;
+    border-style: none !important;
+    box-shadow: none !important;
+  }
+  .css-1pahdxg-control,.css-1pahdxg-control:hover {
+    border-color:transparent !important;
+    border-style: none !important;
+    box-shadow: none !important;
+    margin-top: -10px;
+}
+ 
